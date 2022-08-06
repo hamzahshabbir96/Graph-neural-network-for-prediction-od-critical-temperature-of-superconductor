@@ -17,3 +17,4 @@ to look at each characteristic in depth and try to figure out how they affect th
 model. In this thesis, a second investigation was conducted to investigate the relationship
 between model features and superconductivity. This was accomplished by segmenting the
 database into separate groups for a more in-depth analysis of the attributes.
+![Image](pictures/mainpic.png)
