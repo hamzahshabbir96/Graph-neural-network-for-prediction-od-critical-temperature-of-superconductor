@@ -18,3 +18,13 @@ model. In this thesis, a second investigation was conducted to investigate the r
 between model features and superconductivity. This was accomplished by segmenting the
 database into separate groups for a more in-depth analysis of the attributes.
 ![Image](pictures/mainpic.png)
+## Scope of this thesis can be summarized as follows:
+- Creation of database for superconductor and method to make it more suitable for
+machine learning models.
+- Superconductor classification based on critical temperature and superconductor theories.
+- Feature study to find correlation between different physical and chemical features of
+element and their impact on critical temperature of superconductors.
+- Comparison of the effectiveness, computation, and capacity of several machine learning
+regression models to forecast the critical temperature of even complex superconductors,
+as well as exploration and optimization of these models to increase prediction accuracy.
+- Conceptualization of GNN and application to predict Tc of superconductor.
